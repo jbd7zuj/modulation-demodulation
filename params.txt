@@ -1,0 +1,5 @@
+Left capacitor: 50pf -- 420pf variable capacitance
+right capacitor: 20pf -- 220pf
+
+parallelMax - both capacitors at maximum, connected in parallel
+parallelMax1 - right capacitor at minimum, left at maximum, connected in parallel
